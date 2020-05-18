@@ -104,7 +104,7 @@
 
 .button {
     margin-left: 10%;
-    flex-direction: row nowrap;
+    flex-flow: row nowrap;
     flex: 3;
   }
 
