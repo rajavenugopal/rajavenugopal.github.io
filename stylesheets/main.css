@@ -1,0 +1,201 @@
+
+.top {
+    height: 25px;
+    margin-top: auto;
+   }  
+ #topline {
+     color: black;
+ }
+.topleft {
+    display: inline-flex;
+    margin-left: auto;
+    }
+
+.div1 {
+    margin: 5px;
+    order: 1;
+    
+}
+
+.div1 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.div2 {
+    margin: 5px;
+    order: 2;
+    
+}
+.div2 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.topright{
+    display: inline-flex;
+    margin-left: 60%;
+   }
+.div3 {
+    margin: 5px;
+    order: 3;
+}
+.div3 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.div4 {
+    margin: 5px;
+    order: 4;
+}
+.div4 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.div5 {
+    margin: 5px;
+    order: 5;
+   }
+
+.div6 {
+    display: inline-flex;
+    margin: 5px;
+    order: 6;  
+}
+
+.btn{
+    background-color: rgba(127, 129, 199, 0.925); 
+    border: none;
+    font-size: 12px;
+    color: white; 
+    cursor: pointer; 
+}
+.searchdiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    height: 450px;
+     }
+
+.GoogleImg {
+    flex-direction: row;
+    margin-top: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+    flex: 1;
+}
+
+.searchpage {
+    flex-direction: row;
+    margin-left: 0%;
+    margin-right: 5%;
+    flex: 2;
+    width: 80%;
+    border-radius: 20px 20px 20px 20px;
+    box-sizing: border-box;
+    border-color: #e6e6e6;
+    border-width: thin;
+    box-shadow: none;
+    margin-bottom: 1em;
+}
+
+.button {
+    margin-left: 10%;
+    flex-direction: row nowrap;
+    flex: 3;
+  }
+
+}
+.footer {
+    margin-bottom: auto;
+    height: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: inherit;
+    display: inline-flex;
+    flex-direction: row;
+    
+   }  
+ #footerline {
+    background-color: lightgray;
+    color: black;
+ }
+.bottomleft {
+    display: inline-flex;
+    margin-left: auto;
+    }
+.div7 {
+    margin: 5px;
+    order: 1;
+}
+.div7 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.div8 {
+    margin: 5px;
+    order: 2;
+}
+.div8 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+
+}
+.div9 {
+    margin: 5px;
+    order: 3;
+}
+.div9 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+
+}
+.div10 {
+    margin: 5px;
+    order: 4;
+}
+.div10 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+
+}
+.bottomright {
+    display: inline-flex;
+    margin-left: 35%;
+}
+
+.div11 {
+    margin: 5px;
+    order: 5;
+}
+.div11 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+
+}
+.div12 {
+    order: 6;
+    margin: 5px;
+}
+.div12 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.div13 {
+    order: 7;
+    margin: 5px;
+}
+.div13 a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
