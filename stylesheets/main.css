@@ -4,11 +4,11 @@ nav ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
+    margin-left: auto;
     color: black;
   }
 nav li {
     flex-flow: row nowrap;
-    justify-content: flex-start;
    }
 
 .about {
