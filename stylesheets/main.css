@@ -5,10 +5,10 @@ nav ul {
     padding: 0;
     list-style-type: none;
     color: black;
+    padding-top: 1em;
   }
 nav li {
     flex-flow: row nowrap;
-    padding-top: 1em;
        }
 
 .about {
