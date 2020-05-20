@@ -1,65 +1,61 @@
 
-.top {
-    height: 25px;
-    margin-top: auto;
-   }  
- #topline {
-     color: black;
- }
-.topleft {
-    display: inline-flex;
-    margin-left: auto;
-    }
+nav ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    padding: 0;
+    color: black;
+  }
+nav li {
+    flex-flow: row nowrap;
+   }
 
-.div1 {
+.about {
     margin: 5px;
     order: 1;
     
 }
 
-.div1 a:link {
+.about a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
 }
-.div2 {
+.store {
     margin: 5px;
     order: 2;
     
 }
-.div2 a:link {
+.store a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
 }
-.topright{
-    display: inline-flex;
-    margin-left: 60%;
-   }
-.div3 {
-    margin: 5px;
+.gmail {
+    margin-right: auto; 
     order: 3;
 }
-.div3 a:link {
+.gmail a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
 }
-.div4 {
+.images {
     margin: 5px;
     order: 4;
 }
-.div4 a:link {
+.images a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
 }
-.div5 {
+.ninedots {
     margin: 5px;
     order: 5;
    }
 
-.div6 {
+.signin {
     display: inline-flex;
     margin: 5px;
     order: 6;  
@@ -127,74 +123,65 @@
     display: inline-flex;
     margin-left: auto;
     }
-.div7 {
+.advertising {
     margin: 5px;
     order: 1;
 }
-.div7 a:link {
+.advertising a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
 }
-.div8 {
+.business {
     margin: 5px;
     order: 2;
 }
-.div8 a:link {
+.business a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
 
 }
-.div9 {
+.howsearchworks {
     margin: 5px;
     order: 3;
 }
-.div9 a:link {
+.howsearchworks a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
 
 }
-.div10 {
-    margin: 5px;
-    order: 4;
-}
-.div10 a:link {
-    text-decoration: none;
-    font-size: 12px;
-    color: black;
 
-}
 .bottomright {
     display: inline-flex;
     margin-left: 35%;
 }
 
-.div11 {
+.privacy {
     margin: 5px;
     order: 5;
 }
-.div11 a:link {
+.privacy a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
 
 }
-.div12 {
+.terms {
     order: 6;
     margin: 5px;
 }
-.div12 a:link {
+.terms a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
 }
-.div13 {
+.settings{
     order: 7;
     margin: 5px;
 }
-.div13 a:link {
+.settings a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
