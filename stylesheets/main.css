@@ -33,7 +33,7 @@ nav li {
     color: black;
 }
 .gmail {
-    margin-left: auto; 
+    margin-left: 60%; 
     order: 3;
 }
 .gmail a:link {
