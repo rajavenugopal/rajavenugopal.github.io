@@ -8,6 +8,7 @@ nav ul {
   }
 nav li {
     flex-flow: row nowrap;
+    justify-content: flex-start;
    }
 
 .about {
