@@ -13,7 +13,7 @@ nav li {
 
 .about {
     margin: 5px;
-    margin-left: auto;
+    margin-left: 0;
     order: 1;
     
 }
@@ -35,6 +35,7 @@ nav li {
 }
 .gmail {
     margin-left: 60%; 
+    margin: 5px;
     order: 3;
 }
 .gmail a:link {
