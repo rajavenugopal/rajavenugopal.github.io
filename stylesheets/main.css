@@ -43,6 +43,7 @@ nav li {
     text-decoration: none;
     font-size: 12px;
     color: black;
+    border: 1px;
 }
 .images {
     margin: 5px;
