@@ -34,6 +34,10 @@ nav li {
 }
 .gmail {
     margin-left: 35%; 
+<<<<<<< HEAD
+=======
+    margin-inline-start: auto;
+>>>>>>> 144b3493155f2f13decf721a45a3c23490f90b5b
     margin: 5px;
     order: 3;
 }
@@ -157,7 +161,11 @@ nav li {
 
 .bottomright {
     display: inline-flex;
+<<<<<<< HEAD
     margin-left: 25%;
+=======
+    margin-left: 30%;
+>>>>>>> 144b3493155f2f13decf721a45a3c23490f90b5b
 }
 
 .privacy {
