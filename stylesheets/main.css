@@ -33,7 +33,7 @@ nav li {
     color: black;
 }
 .gmail {
-    margin-left: 60%; 
+    margin-left: 35%; 
     margin-inline-start: auto;
     margin: 5px;
     order: 3;
@@ -158,7 +158,7 @@ nav li {
 
 .bottomright {
     display: inline-flex;
-    margin-left: 35%;
+    margin-left: 30%;
 }
 
 .privacy {
