@@ -34,8 +34,7 @@ nav li {
     color: black;
 }
 .gmail {
-    margin-left: 70%;
-    white-space: 100px; 
+    margin-left: 70% !important;
     margin: 5px;
     order: 3;
 }
