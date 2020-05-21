@@ -36,7 +36,7 @@ nav li {
     margin-left: 35%; 
     margin-inline-start: auto;
     margin: 5px;
-    margin-top: 5em;
+    padding-top: 5em;
     order: 3;
 }
 .gmail a:link {
@@ -159,7 +159,7 @@ nav li {
 
 .bottomright {
     display: inline-flex;
-    margin-left: 30%;
+    margin-left: 45%;
 }
 
 .privacy {
