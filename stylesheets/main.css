@@ -158,10 +158,11 @@ nav li {
 
 .bottomright {
     display: inline-flex;
-    margin-left: 45%;
-}
+    }
 
 .privacy {
+    flex-direction: row-reverse;
+    justify-content: flex-end;
     margin: 5px;
     order: 5;
 }
