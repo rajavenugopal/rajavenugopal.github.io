@@ -1,0 +1,198 @@
+
+nav ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    color: black;
+  }
+nav li {
+    flex-flow: row nowrap;
+       }
+
+.about {
+    margin: 5px;
+    margin-left: 0;
+    order: 1;
+    
+}
+
+.about a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.store {
+    margin: 5px;
+    order: 2;
+    
+}
+.store a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.gmail {
+    margin-left: 35%; 
+<<<<<<< HEAD
+=======
+    margin-inline-start: auto;
+>>>>>>> 144b3493155f2f13decf721a45a3c23490f90b5b
+    margin: 5px;
+    order: 3;
+}
+.gmail a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+    padding-inline-start: 5em;
+   }
+.images {
+    margin: 5px;
+    order: 4;
+}
+.images a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.ninedots {
+    margin: 5px;
+    order: 5;
+   }
+
+.signin {
+    display: inline-flex;
+    margin: 5px;
+    order: 6;  
+}
+
+.btn{
+    background-color: rgba(127, 129, 199, 0.925); 
+    border: none;
+    font-size: 12px;
+    color: white; 
+    cursor: pointer; 
+}
+.searchdiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    height: 450px;
+     }
+
+.GoogleImg {
+    flex-direction: row;
+    margin-top: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+    flex: 1;
+}
+
+.searchpage {
+    flex-direction: row;
+    margin-left: 0%;
+    margin-right: 5%;
+    flex: 2;
+    width: 80%;
+    border-radius: 20px 20px 20px 20px;
+    box-sizing: border-box;
+    border-color: #e6e6e6;
+    border-width: thin;
+    box-shadow: none;
+    margin-bottom: 1em;
+}
+
+.button {
+    margin-left: 10%;
+    flex-flow: row nowrap;
+    flex: 3;
+  }
+
+}
+.footer {
+    margin-bottom: auto;
+    height: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: inherit;
+    display: inline-flex;
+    flex-direction: row;
+    
+   }  
+ #footerline {
+    background-color: lightgray;
+    color: black;
+ }
+.bottomleft {
+    display: inline-flex;
+    margin-left: auto;
+    }
+.advertising {
+    margin: 5px;
+    order: 1;
+}
+.advertising a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.business {
+    margin: 5px;
+    order: 2;
+}
+.business a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+
+}
+.howsearchworks {
+    margin: 5px;
+    order: 3;
+}
+.howsearchworks a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+
+}
+
+.bottomright {
+    display: inline-flex;
+<<<<<<< HEAD
+    margin-left: 25%;
+=======
+    margin-left: 30%;
+>>>>>>> 144b3493155f2f13decf721a45a3c23490f90b5b
+}
+
+.privacy {
+    margin: 5px;
+    order: 5;
+}
+.privacy a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+
+}
+.terms {
+    order: 6;
+    margin: 5px;
+}
+.terms a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.settings{
+    order: 7;
+    margin: 5px;
+}
+.settings a:link {
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
