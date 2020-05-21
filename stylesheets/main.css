@@ -36,15 +36,14 @@ nav li {
     margin-left: 35%; 
     margin-inline-start: auto;
     margin: 5px;
-    padding-top: 5em;
+    padding-top: 5px;
     order: 3;
 }
 .gmail a:link {
     text-decoration: none;
     font-size: 12px;
     color: black;
-    padding-inline-start: 5em;
-   }
+      }
 .images {
     margin: 5px;
     order: 4;
