@@ -34,8 +34,8 @@ nav li {
     color: black;
 }
 .gmail {
-    flex-direction: row-reverse;
-    justify-content: flex-end;
+    flex-direction: row-reverse !important;
+    justify-content: flex-end !important;
     margin: 5px;
     order: 3;
 }
@@ -76,7 +76,7 @@ nav li {
     flex-direction: row;
     justify-content: center;
     align-content: center;
-    height: 400px;
+    height: 450px !important;
      }
 
 .GoogleImg {
@@ -161,8 +161,8 @@ nav li {
     }
 
 .privacy {
-    flex-direction: row-reverse;
-    justify-content: flex-end;
+    flex-direction: row-reverse !important;
+    justify-content: flex-end !important;
     margin: 5px;
     order: 5;
 }
